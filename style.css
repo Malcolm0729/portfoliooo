@@ -32,5 +32,45 @@ a {
 body {
 background-color: black;
 color: white;
+}
 
+.bottom-left {
+position: absolute;
+bottom: 180px;
+left: 135px;
+}
+
+.picture1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.picture2 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 180px;
+    right: 135px;
+}
+
+.picture3 {
+    position: relative;
+    text-align: center;
+}
+
+.bottom-right2 {
+    position: absolute;
+    bottom: 25px;
+    right: 970px;
+}
+
+.bottom-right3 {
+position: absolute;
+bottom: 35px;
+left: 950px;
 }
