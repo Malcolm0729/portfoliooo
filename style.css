@@ -74,3 +74,11 @@ position: absolute;
 bottom: 35px;
 left: 950px;
 }
+
+.col-md-4 {
+    text-align: right;
+}
+
+.username {
+    font-size: 30px;
+}
