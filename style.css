@@ -22,7 +22,7 @@ body {
 
 a:hover {
     text-decoration: none;
-    color: grey;
+    color: white;
 }
 
 a { 
@@ -30,7 +30,7 @@ a {
 }
 
 body {
-background-color: slategrey;
+background-color: #902020;
 color: white;
 }
 
