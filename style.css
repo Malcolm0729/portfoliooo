@@ -34,6 +34,31 @@ background-color: darkgrey;
 color: white;
 }
 
-.card-img-overlay {
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-body {
+    border: none;
+    background-color: darkgray;
+}
+
+img {
+    max-height: 180px;
+    
     
 }
+
+.container {
+    padding: 5%;
+}
+
+#blackLines {
+    object-fit: cover;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
